@@ -1,4 +1,4 @@
-import myJson from "./MOCK_DATA.json" assert { type: "json" };
+import myJson from "./MOCK_DATA.JSON" assert { type: "json" };
 console.log(myJson);
 let data = document.getElementById("data");
 let search = document.getElementById("searchBtn");
